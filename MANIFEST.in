@@ -10,7 +10,7 @@ exclude *.coveragerc
 exclude *.sh
 exclude proc*
 exclude pylint*
-exclude README*
+# exclude README*
 
 include requirements*.*
 exclude requirements-dev.*
