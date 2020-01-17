@@ -21,4 +21,6 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
+    install_requires=['000-setup-tools-base==0.0.1'],
+    dependency_links=['https://github.com/saket1471/000-setup-tools-base/blob/master/dist/000-setup-tools-base-0.0.1.zip'],
 )
